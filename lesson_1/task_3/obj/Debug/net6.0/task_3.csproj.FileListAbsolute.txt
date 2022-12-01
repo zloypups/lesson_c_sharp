@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\bin\Debug\net6.0\task_3.exe
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\bin\Debug\net6.0\task_3.deps.json
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\bin\Debug\net6.0\task_3.runtimeconfig.json
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\bin\Debug\net6.0\task_3.dll
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\bin\Debug\net6.0\task_3.pdb
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.AssemblyInfo.cs
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.dll
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\refint\task_3.dll
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.pdb
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\task_3.genruntimeconfig.cache
+C:\Users\Lex\Desktop\c_sharp\lesson_c_sharp\lesson_1\task_3\obj\Debug\net6.0\ref\task_3.dll
