@@ -12,11 +12,11 @@ int b = int.Parse(Console.ReadLine());
 
 if (a > b)
 {
-    Console.WriteLine($"Результат сравнения чисел: {a}, больше {b}");
+    Console.WriteLine($"Результат сравнения чисел: {a}, больше {b}, меньше");
 }
 else if (b > a)
 {
-    Console.WriteLine($"Результат сравнения чисел: {b}, больше {a}");
+    Console.WriteLine($"Результат сравнения чисел: {b}, больше {a}, меньше");
 }
 else
     Console.WriteLine("числа либо равны, либо код писал какой-то лузер");
