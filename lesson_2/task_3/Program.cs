@@ -6,35 +6,35 @@
 */
 Console.Clear();
 Console.Write("Введите число дня недели: ");
-int x = int.Parse(Console.WriteLine());
+int x = int.Parse(Console.ReadLine());
 
-if (x = 1)
+if (x == 1)
 {
-    Console.WriteLine($"Вашу значение {x}, это Понедельник");
+    Console.WriteLine($"Вашу значение {x}, это Понедельник-будний день");
 }
-else if (x = 2)
+else if (x == 2)
 {
-    Console.WriteLine($"Вашу значение {x}, это Вторник");
+    Console.WriteLine($"Вашу значение {x}, это Вторник-будний день");
 }
-else if (x = 3)
+else if (x == 3)
 {
-    Console.WriteLine($"Вашу значение {x}, это Среда");
+    Console.WriteLine($"Вашу значение {x}, это Среда-будний день");
 }
-else if (x = 4)
+else if (x == 4)
 {
-    Console.WriteLine($"Вашу значение {x}, это Четверг");
+    Console.WriteLine($"Вашу значение {x}, это Четверг-будний день");
 }
-else if (x = 5)
+else if (x == 5)
 {
-    Console.WriteLine($"Вашу значение {x}, это Пятница");
+    Console.WriteLine($"Вашу значение {x}, это Пятница-будний день");
 }
-else if (x = 6)
+else if (x == 6)
 {
     Console.WriteLine($"Вашу значение {x}, это Суббота и это выходной день");
 }
-else if (x = 7)
+else if (x == 7)
 {
     Console.WriteLine($"Вашу значение {x}, это Воскресенье и это выходной день");
 }
 else
-    Console.WriteLine("Введите корректный номер дня недели. их не больше 7-ми");
+    Console.WriteLine("Введите корректный номер дня недели. Их не больше 7-ми");
