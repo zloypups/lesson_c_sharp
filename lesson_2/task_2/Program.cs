@@ -7,7 +7,7 @@
 
 32679 -> 6
 
-*/
+
 
 Console.Clear();
 Console.Write("Введите число: ");
@@ -25,3 +25,15 @@ else if (x >= 1000)
 }
 else
     Console.WriteLine("Это меньше чем трехзначное число");
+*/
+
+Console.Clear();
+int n = Convert.ToInt32(Console.ReadLine());
+if (n < 100)
+    Console.WriteLine();
+else
+{
+    while (n > 1000)
+        n /= 10;
+    Console.Write(n % 10);
+}
